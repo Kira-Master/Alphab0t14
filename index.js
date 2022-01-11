@@ -2291,7 +2291,7 @@ let papako = [{
 										},{
 										"buttonId": `me`,
 										"buttonText": {
-											"displayText": "PROCFILE"
+											"displayText": "PROFILE"
 											},
 										"type": "RESPONSE"
 										}]
