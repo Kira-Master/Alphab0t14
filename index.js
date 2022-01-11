@@ -185,17 +185,17 @@ banChats = setting.self_mode
 autorespon = true
 offline = false
 readGc = true 
-readPc = false 
-antitrol = false 
+readPc = false
+antitrol = false
 bugc = false
 autovn = true
 autoketik = false
 autoregister = setting.user_register
 typemenu = 'document'
 img = setting.img
-baper = 'SUB YT ZEEONE OFC'
-apiku = 'https://zeeoneofc.github.io/'
-gc_wa_lu = 'https://chat.whatsapp.com/EU890BcXjyBDkNaUT5WmYV' //klo gk punya gc wa gk usah di ganti 👍
+baper = '𝓚𝓲𝓻𝓪 𝓜𝓪𝓼𝓽𝓮𝓻'
+apiku = 'https://kira-master.github.io/'
+gc_wa_lu = 'https://chat.whatsapp.com/' //klo gk punya gc wa gk usah di ganti 👍
 targetpc = setting.ownerNumberr
 owner = targetpc
 fake = setting.fake
@@ -1376,8 +1376,8 @@ key: {
 						"mimetype": "image/jpeg",
 						"jpegThumbnail": fs.readFileSync(`image/${thumbnail}`) //Gambarnye
 					},
-					"title": 'Whatsapp bot', 
-					"description": "SELF BOT", 
+					"title": '𝓚𝔂𝓾𝓻𝓪 𝓑𝓸𝓽', 
+					"description": "PUBLIC BOT", 
 					"currencyCode": "IDR",
 					"priceAmount1000": "70000000",
 					"retailerId": 'Whatsapp bot',
